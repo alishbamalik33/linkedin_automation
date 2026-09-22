@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+output/
+templates/base_resume.docx
+templates/base_cover_letter.docx
+config/profile.yaml
+config/settings.yaml
+*.egg-info/
+dist/
+build/
+.pytest_cache/

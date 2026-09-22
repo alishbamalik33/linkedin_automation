@@ -1,0 +1,48 @@
+posts:
+  - id: 1
+    date: "2026-09-22"
+    status: "pending"
+    content: |
+      I’ve been learning more about Retrieval-Augmented Generation (RAG), and one concept that stood out to me is how retrieval can help an LLM work with external knowledge.
+
+      Instead of relying only on what the model already knows, a RAG system can retrieve relevant information and provide it as context before generating a response.
+
+      I’m currently exploring RAG with LangChain, vector databases, embeddings, and Gemini.
+
+      #AI #GenerativeAI #RAG #MachineLearning #LLM
+
+  - id: 2
+    date: "2026-09-23"
+    status: "pending"
+    content: |
+      One thing I’ve learned while working with AI applications is that embeddings are a key part of modern RAG systems.
+
+      Embeddings convert text into numerical representations that allow semantically similar pieces of information to be found even when they don't use exactly the same words.
+
+      This makes semantic search possible and is one of the concepts I’m focusing on while learning RAG.
+
+      #AI #RAG #Embeddings #GenerativeAI #MachineLearning
+
+  - id: 3
+    date: "2026-09-24"
+    status: "pending"
+    content: |
+      I’ve been exploring ChromaDB as a vector database while building RAG-based applications.
+
+      One of the interesting parts is seeing how documents can be converted into embeddings, stored, and later retrieved based on semantic similarity.
+
+      Working through these concepts practically has helped me understand RAG much better than learning the theory alone.
+
+      #AI #ChromaDB #RAG #GenAI #Python
+
+  - id: 4
+    date: "2026-09-24"
+    status: "pending"
+    content: |
+      I’ve been exploring ChromaDB as a vector database while building RAG-based applications.
+
+      One of the interesting parts is seeing how documents can be converted into embeddings, stored, and later retrieved based on semantic similarity.
+
+      Working through these concepts practically has helped me understand RAG much better than learning the theory alone.
+
+      #AI #ChromaDB #RAG #GenAI #Python
